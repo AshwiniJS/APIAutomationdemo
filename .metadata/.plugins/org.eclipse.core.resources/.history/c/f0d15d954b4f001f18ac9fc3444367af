@@ -6,7 +6,6 @@ public class Employee {
 		
 	System.out.println("Test");
 	System.out.println("New Test");
-	
 	}
 
 }
